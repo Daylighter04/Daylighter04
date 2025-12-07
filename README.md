@@ -1,1 +1,3 @@
-![reversal](https://capsule-render.vercel.app/api?type=venom&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=tokyonight)
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?text=OláTodos!🕹️&animation=fadeIn&type=venom&color=gradient&height=100"/> 
+</p>
