@@ -28,7 +28,7 @@
 
 ```yaml
 name: Laura Santoro Cruz
-located_in: Alvorada do Sul - PR, Brasil
+located_in: Londrina - PR, Brasil
 current_job: Estudante de Engenharia de Software e Auxiliar Administrativo
 education:
   - "Bacharelado em Engenharia de Software (em andamento)"
