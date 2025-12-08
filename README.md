@@ -23,44 +23,40 @@
 
 ---
 
-<!--
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+<h2> 👩🏻‍💻 &nbsp;Um pouco sobre mim e meus interesses</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Laura Santoro Cruz
+located_in: Alvorada do Sul - PR, Brasil
+current_job: Estudante de Engenharia de Software e Auxiliar Administrativo
 education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+  - "Bacharelado em Engenharia de Software (em andamento)"
 
 fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
+  - "Desenvolvimento Web (Front-end)"
+  - "UI/UX"
+  - "Arquitetura e Documentação de Software"
+  - "Banco de Dados"
+
 technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-```
-  
+  - "Projetos com React, TypeScript, HTML, CSS e Node.js"
+  - "Desenvolvimento de sistema de gestão de estoque público (SISA)"
+  - "Modelagem de software com UML e boas práticas de engenharia"
+
+currently_learning:
+  - "React, TypeScript, Docker, Prisma e boas práticas de arquitetura"
+
+goals_2025:
+  - "Criar vários projetos front-end para portfólio"
+  - "Aprender novas tecnologias e padrões de projeto"
+
+hobbies:
+  - "Games"
+  - "Séries"
+  - "Arte digital"
+  - "Música"
+
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -93,4 +89,3 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
--->
