@@ -1,16 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8A2BE2&height=180&section=header&text=Hi,%20I'm%20Laura!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff003c,50:6C63FF,100:0066ff&text=Laura%20Santoro%20Cruz&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=🕷️%20Software%20Engineering%20Student%20|%20Front-end%20Developer&descAlignY=72"/>
 </p>
 
-<h1 align="center">👋 Welcome to my GitHub!</h1>
+<h1 align="center">🕷️ Welcome to my Spider-Verse!</h1>
 
 <p align="center">
-Software Engineering Student • Front-end Developer • Always Learning 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=With+great+power+comes+great+responsibility.;Welcome+to+my+Spider-Verse!;Let's+build+awesome+software" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/laura-cruz4/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNzbjk1bDB1bzczejR5NnlhZzRtYnFlajNqaWYxMml2eWN6cWJoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qiywDYLLAk3jpDBaE/giphy.gif"
+    width="350"
+    alt="Spider-Man">
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/laura-cruz4">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://dev.to/daylighter04">
@@ -20,6 +32,7 @@ Software Engineering Student • Front-end Developer • Always Learning 🚀
 <a href="https://www.instagram.com/laura.s_cruz">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -29,15 +42,11 @@ Software Engineering Student • Front-end Developer • Always Learning 🚀
 ```yaml
 name: Laura Santoro Cruz
 
-location: Paraná, Brazil 🇧🇷
+role:
+  Software Engineering Student
 
-education:
-  - Software Engineering Student
-
-current_focus:
-  - Front-end Development
-  - Software Architecture
-  - UI/UX Design
+location:
+  Paraná, Brazil 🇧🇷
 
 currently_learning:
   - React
@@ -45,90 +54,68 @@ currently_learning:
   - Node.js
   - Docker
   - Prisma
-  - Software Design Patterns
+  - Software Architecture
 
 interests:
-  - Web Development
+  - Front-end Development
+  - UI/UX
   - Artificial Intelligence
   - Databases
-  - System Analysis
   - Software Documentation
 
-goals:
-  - Build a strong portfolio
-  - Contribute to Open Source
-  - Become a Full Stack Developer
+mission:
+  Build useful software and keep learning every day.
 
-fun_fact:
-  - Coffee + Music = Productivity ☕🎧
+favorite_quote:
+  "Anyone can wear the mask."
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🕷️ My Arsenal
 
-### Languages
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,react,ts,js,nodejs,express,mysql,firebase,docker,git,github,vscode,figma,html,css&perline=8"/>
+
 </p>
 
-### Front-end
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,materialui" />
-</p>
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 
-### Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🕷️ Spider Projects
 
-🚀 **SISA**  
-Inventory and Supply Management System for the public sector.
-
-🏠 **MoraDia**  
-Application for managing shared housing.
-
-🕷️ **Spider-Verse News**  
-News dashboard built with Requests, BeautifulSoup and Streamlit.
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 📦 **SISA** | Inventory and Supply Management System for the public sector. |
+| 🏠 **MoraDia** | Shared housing management application. |
+| 📰 **Spider-Verse News** | News dashboard using Requests, BeautifulSoup and Streamlit. |
+| 🃏 **PokeBinderAnalyzer** | Pokémon card collection analyzer and organizer. |
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Daylighter04&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daylighter04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daylighter04&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daylighter04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Daylighter04&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Daylighter04&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -144,10 +131,40 @@ News dashboard built with Requests, BeautifulSoup and Streamlit.
 
 ---
 
+# 🏆 GitHub Trophies
+
 <p align="center">
 
-### Thanks for visiting my profile! 💜
+<img src="https://github-profile-trophy.vercel.app/?username=Daylighter04&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-*"Code is like art: the best solutions are elegant and useful."*
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daylighter04&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+- 🕷️ Spider-Man fan
+- 🎮 Gamer
+- 🎨 Passionate about UI Design
+- ☕ Coffee + Music = Productivity
+- 🚀 Always looking for new challenges
+
+---
+
+<p align="center">
+
+### 🕸️ "With great power comes great responsibility."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ff003c,50:6C63FF,100:0066ff"/>
 
 </p>
