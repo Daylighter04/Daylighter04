@@ -131,16 +131,6 @@ favorite_quote:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Daylighter04&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
@@ -153,10 +143,11 @@ favorite_quote:
 
 # ⚡ Fun Facts
 
-- 🕷️ Spider-Man fan
+- 🕷️ Spider-Man enthusiast
 - 🎮 Gamer
 - 🎨 Passionate about UI Design
-- ☕ Coffee + Music = Productivity
+- 🎨 I enjoy painting comic book artwork in my free time
+- 🎧 Music is my favorite coding companion
 - 🚀 Always looking for new challenges
 
 ---
